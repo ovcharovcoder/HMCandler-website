@@ -11,4 +11,4 @@
   <li>The source files for this site are located at: https://github.com/datoshcode/HMCandler-front-project-src-</li>
 </ul>
 
-<img src="Screenshot.png" alt="screensot">
+<img src="screenshot.png" alt="screensot">
