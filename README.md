@@ -8,7 +8,7 @@
     <p>Brief description:</p>
     <p>The site is dedicated to the sale of scented candles and candle-making training courses</p>
   </li>
-  <li>The source files for this site are located at: https://github.com/ovcharovcoder/HMCandler-front-project-src-</li>
+  <li>The source files: https://github.com/ovcharovcoder/HMCandler-front-project-src-</li>
 </ul>
 
 <img src="screenshot.png" alt="screensot">
