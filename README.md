@@ -1,7 +1,7 @@
 # HMCandler-frontend
 <h2>About</h2>
 <ul>
-  <li>Site name: HM Candler</li>
+  <li>Site name: "HM Candler"</li>
   <li>Web developer: Andriy Ovcharov</li>
   <li>Development date: 19.12.2023</li>
   <li>
