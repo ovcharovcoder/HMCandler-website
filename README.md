@@ -1,4 +1,4 @@
-# HMCandler-frontend
+<h1>Website "HMCandler"</h1>
 <h2>About</h2>
 <ul>
   <li>Site name: "HM Candler";</li>
