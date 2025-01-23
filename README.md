@@ -8,7 +8,7 @@
     <p>Brief description:</p>
     <p>The site is dedicated to the sale of scented candles and candle-making training courses</p>
   </li>
-  <li>The source files: https://github.com/ovcharovcoder/HMCandler-front-project-src-</li>
+  <li>View the source files: https://github.com/ovcharovcoder/HMCandler-front-project-src-</li>
   <li>View website: https://datoshcode.github.io/HMCandler-frontend</li>
 </ul>
 
