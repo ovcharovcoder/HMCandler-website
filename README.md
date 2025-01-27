@@ -8,8 +8,8 @@
     <p>Brief description:</p>
     <p>The site is dedicated to the sale of scented candles and candle-making training courses</p>
   </li>
-  <li>View source files: https://github.com/ovcharovcoder/HMCandler-front-project-src-</li>
-  <li>View website: https://datoshcode.github.io/HMCandler-frontend</li>
+  <li>View source files: https://github.com/ovcharovcoder/HMCandler-project-src-</li>
+  <li>View website: https://datoshcode.github.io/HMCandler-website</li>
 </ul>
 
 <img src="screenshot.png" alt="screensot">
