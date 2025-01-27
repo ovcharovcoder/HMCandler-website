@@ -9,7 +9,7 @@
     <p>The site is dedicated to the sale of scented candles and candle-making training courses</p>
   </li>
   <li>View source files: https://github.com/ovcharovcoder/HMCandler-project-src-</li>
-  <li>View website: https://datoshcode.github.io/HMCandler-website</li>
+  <li>View website: https://ovcharovcoder.github.io/HMCandler-website</li>
 </ul>
 
 <img src="screenshot.png" alt="screensot">
